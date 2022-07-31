@@ -1,6 +1,0 @@
-https://github.com/chxuan/CZPlayer
-https://github.com/abaoa/GradientCreator/tree/master/screenshots
-https://github.com/abaoa/QtLoaf
-https://github.com/Smoking/SimpleScreenTools
-https://github.com/nuttyartist/notes
-https://github.com/188080501/JQTools
